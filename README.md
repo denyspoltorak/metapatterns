@@ -8,7 +8,7 @@ The main content of this repository is my book ***Architectural Metapatterns: Th
 * A comparison of ways in which various patterns approach the same problems
 * A map of evolutions of software architectures
 
-The book can be downloaded in PDF or EPUB format from the [latest release](https://github.com/denyspoltorak/metapatterns/releases/tag/v1.2), or read online as a [website](https://metapatterns.io/) or [wiki](https://github.com/denyspoltorak/metapatterns/wiki). The book's diagrams and ODT file are also [available](ArchitecturalMetapatterns) under the [CC BY license](ArchitecturalMetapatterns/LICENSE).
+The book can be downloaded in PDF or EPUB format from the [latest release](https://github.com/denyspoltorak/metapatterns/releases/tag/v1.2.1), or read online as a [website](https://metapatterns.io/) or [wiki](https://github.com/denyspoltorak/metapatterns/wiki). The book's diagrams and ODT file are also [available](ArchitecturalMetapatterns) under the [CC BY license](ArchitecturalMetapatterns/LICENSE).
 
 There is also a [Leanpub page](https://leanpub.com/metapatterns) with testimonials and detailed table of contents, and the original (outdated) [Medium series](https://medium.com/itnext/the-list-of-architectural-metapatterns-ed64d8ba125d).
 
